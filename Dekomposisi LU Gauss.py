@@ -53,4 +53,4 @@ A = [[3, -1, 1],
 b = [4, 11, 1]
 # Menyelesaikan SPL
 x = lu_gauss_solver(A, b)
-print("Solusi x:", x)
+print("Solusi SPL:", x)
