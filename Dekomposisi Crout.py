@@ -45,4 +45,4 @@ A = [[3, -1, 1],
 b = [4, 11, 1]
 
 solution = solve_crout(A, b)
-print("Solution:", solution)
+print("Solusi SPL:", solution)
